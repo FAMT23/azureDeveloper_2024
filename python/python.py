@@ -16,3 +16,7 @@ pi = 3.14159265
 print(f"El valor de pi es: {pi:.4f}")
 
 print(f"Pi es del tipo {type(pi)}")
+
+lado_izquierdo = 10
+lado_derecho = 5
+print(lado_izquierdo/lado_derecho)
